@@ -1,5 +1,16 @@
 /* Use this file to use your own styles*/
 
+.funky-text {
+color: #8020cc;
+text-align: center;
+font-style: italic;
+text-decoration: underline #ffcc00;
+}
+
+.name_color {
+color: #228B22;
+}
+
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
@@ -12,9 +23,27 @@ body {
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
+.news-cycle-regular {
+  font-family: "News Cycle", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.news-cycle-bold {
+  font-family: "News Cycle", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+.paytone-one-regular {
+  font-family: "Paytone One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #D0F0C0;
 }
 
 .resume-main {
@@ -22,7 +51,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #FFFFF0;
 }
 
 /* Styles for lists in the document */
