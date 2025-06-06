@@ -51,7 +51,7 @@ nav a:hover {
     justify-content: center;
     height: 100vh;
     flex-direction: column;
-    background: url('assets/img/filler_image.jpg') center/cover no-repeat;
+    background: url('assets/img/filler_image.JPG') center/cover no-repeat;
     position: relative;
     animation: heroZoomFade 1.5s ease-in-out;
 }
